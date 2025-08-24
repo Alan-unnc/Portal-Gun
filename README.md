@@ -1,2 +1,2 @@
 # Portal-Gun
-I am novice
+I am a novice
